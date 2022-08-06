@@ -1,0 +1,7 @@
+cffi==1.15.1
+cryptocode==0.1
+cryptography==37.0.4
+pycparser==2.21
+pycrypto==2.6.1
+pycryptodomex==3.15.0
+simple-crypt==4.1.7
